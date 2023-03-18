@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+}
+.heading{
+    width:100%;
+    margin:0px;
+}
+#status, #number, #start{
+    font-size:18px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:brown;
+    padding:1px;
+    background-color: yellow;
+    text-align:center;
+    line-height:3;
+    bottom:0;
+    width:100%;
+    text-shadow:2px 2px 2px grey;
+    font-weight: bold;
+
+}
+canvas{
+    border:1px solid white;
+    margin-top:80px;
+}
